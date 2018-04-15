@@ -1,0 +1,150 @@
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\ContactBookProject.dll.config
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\ContactBookProject.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\ContactBookProject.pdb
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\csc.exe
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\csc.exe.config
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\csc.rsp
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\csi.exe
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\csi.exe.config
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\csi.rsp
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.AppContext.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Console.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Threading.Thread.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\vbc.exe
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\vbc.exe.config
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\vbc.rsp
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\EntityFramework.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\EntityFramework.SqlServer.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Helpers.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Mvc.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Razor.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\EntityFramework.xml
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\EntityFramework.SqlServer.xml
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Razor.xml
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.xml
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Helpers.xml
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\bin\System.Web.Mvc.xml
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.csprojResolveAssemblyReference.cache
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.csproj.CoreCompileInputs.cache
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.csproj.CopyComplete
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.dll
+C:\Users\harsi\source\repos\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.pdb
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\ContactBookProject.dll.config
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\ContactBookProject.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\ContactBookProject.pdb
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\csc.exe
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\csc.exe.config
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\csc.rsp
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\csi.exe
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\csi.exe.config
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\csi.rsp
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.AppContext.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Console.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Threading.Thread.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\vbc.exe
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\vbc.exe.config
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\vbc.rsp
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\EntityFramework.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\EntityFramework.SqlServer.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Helpers.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Mvc.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Razor.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\EntityFramework.xml
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\EntityFramework.SqlServer.xml
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Razor.xml
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.xml
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Helpers.xml
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\bin\System.Web.Mvc.xml
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.csprojResolveAssemblyReference.cache
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.csproj.CoreCompileInputs.cache
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.csproj.CopyComplete
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.dll
+C:\Users\harsi\source\repos\New folder\ContactBookProject\ContactBookProject\obj\Debug\ContactBookProject.pdb
